@@ -1,13 +1,12 @@
 #### "Learning never exhausts the mind" - Leonardo da Vinci
 
-## Biotechnologist and Bioinformatics MSc Student.
+## Biotechnologist & Bioinformatics MSc Student.
 
-Biotechnologist with lab experience with DNA Sequencing and Bioinformatics MSc Student in University of Minho.
+Biotechnologist with lab experience with DNA Sequencing and Bioinformatics MSc Student in University of Minho. Mainly focus on Machine Learning and Deep Learning projects.
 
 :black_medium_square: Currently on my final year thesis!  
 :black_medium_square: Currently working with Machine Learning and Deep Learning  
 :black_medium_square: Sci-fi lover and music addict  
-:black_medium_square: Artificial Intelligence 
 
 ### Connect with me:
 
