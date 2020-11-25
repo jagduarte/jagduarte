@@ -2,9 +2,9 @@
 
 ## Biotechnologist and Bioinformatics MSc Student.
 
-- :black_medium_square: I’m currently working on a my final year project!
-- :black_medium_square: I’m currently learning Machine Learning and Deep Learning
-- :black_medium_square: sci-fi lover and music addict.
+:black_medium_square: I’m currently working on a my final year project!
+:black_medium_square: I’m currently learning Machine Learning and Deep Learning
+:black_medium_square: sci-fi lover and music addict.
 
 ### Connect with me:
 
