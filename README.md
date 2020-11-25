@@ -5,7 +5,7 @@
 
 - :black_nib: I’m currently working on a my final year project!
 - :computer: I’m currently learning Machine Learning and Deep Learning
-- :boom: Fun fact: sci-fi lover and music addict.
+- :boom: sci-fi lover and music addict.
 
 ### Connect with me:
 
@@ -23,6 +23,9 @@
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
+[<code>
+<img alt="anaconda" width="26px" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
+</code>](https://www.anaconda.com/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
