@@ -2,7 +2,8 @@
 
 ## Biotechnologist & Bioinformatics MSc Student.
 
-Biotechnologist with lab experience in DNA Sequencing, real-time PCR, ELISA, Sanger and NGS. Bioinformatics MSc Student in University of Minho. 
+Biotechnologist with lab experience in DNA Sequencing, real-time PCR, ELISA.  
+Bioinformatics MSc Student in University of Minho. 
 Mainly focus on Machine Learning and Deep Learning projects.
 
 :black_medium_square: Currently on my final year thesis!  
