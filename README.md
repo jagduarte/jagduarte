@@ -1,10 +1,10 @@
-### "Learning never exhausts the mind" - Leonardo da Vinci
+#### "Learning never exhausts the mind" - Leonardo da Vinci
 
 ## Biotechnologist and Bioinformatics MSc Student.
 
 - :black_nib: I’m currently working on a my final year project!
 - :computer: I’m currently learning Machine Learning and Deep Learning
-- :boom: sci-fi lover :vulcan_salute: and music addict.
+- :vulcan_salute: sci-fi lover and music addict.
 
 ### Connect with me:
 
