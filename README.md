@@ -1,11 +1,10 @@
-### Hi there :vulcan_salute:
+### "Learning never exhausts the mind" - Leonardo da Vinci
 
 ## Biotechnologist and Bioinformatics MSc Student.
-"Learning never exhausts the mind" - Leonardo da Vinci
 
 - :black_nib: I’m currently working on a my final year project!
 - :computer: I’m currently learning Machine Learning and Deep Learning
-- :boom: sci-fi lover and music addict.
+- :boom: sci-fi lover :vulcan_salute: and music addict.
 
 ### Connect with me:
 
@@ -44,6 +43,7 @@
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
+
 
 
 
