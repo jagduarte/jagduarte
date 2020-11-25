@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there :vulcan_salute:
 
 ## Biotechnologist and Bioinformatics MSc Student.
 "Learning never exhausts the mind" - Leonardo da Vinci
 
 - :black_nib: I’m currently working on a my final year project!
 - :computer: I’m currently learning Machine Learning and Deep Learning
-- ⚡ Fun fact: I love to play chess and listen music.
+- :boom: Fun fact: sci-fi lover and music addict.
 
 ### Connect with me:
 
@@ -41,11 +41,6 @@
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
-
-
-
-
-
 
 
 
