@@ -2,9 +2,12 @@
 
 ## Biotechnologist and Bioinformatics MSc Student.
 
-:black_medium_square: Currently working on a my final year project!  
-:black_medium_square: Currently learning Machine Learning and Deep Learning  
-:black_medium_square: Sci-fi lover and music addict.  
+Biotechnologist with lab experience with DNA Sequencing and Bioinformatics MSc Student in University of Minho.
+
+:black_medium_square: Currently on my final year thesis!  
+:black_medium_square: Currently working with Machine Learning and Deep Learning  
+:black_medium_square: Sci-fi lover and music addict  
+:black_medium_square: Artificial Intelligence 
 
 ### Connect with me:
 
