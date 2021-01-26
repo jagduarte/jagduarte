@@ -2,6 +2,8 @@
 
 ## Biotechnologist & Bioinformatics MSc Student.
 
+<img src="https://user-images.githubusercontent.com/66804728/105890641-89ed4d00-6007-11eb-8036-4cbbf8eacb4c.png" alt="example">
+
 Biotechnologist with lab experience in DNA Sequencing, real-time PCR, ELISA.  
 Bioinformatics MSc Student in University of Minho. 
 Mainly focus on Machine Learning and Deep Learning projects.
