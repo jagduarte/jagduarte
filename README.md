@@ -1,5 +1,5 @@
-#### "Learning never exhausts the mind" - Leonardo da Vinci
-
+### "Learning never exhausts the mind" - Leonardo da Vinci
+- - - - - - -
 ## Biotechnologist & Bioinformatics MSc Student.
 
 <img src="https://user-images.githubusercontent.com/66804728/105891062-17c93800-6008-11eb-9a6f-1a9e8be77dc3.png" alt="example">
@@ -12,7 +12,7 @@ Mainly focus on Machine Learning and Deep Learning projects.
 :black_medium_square: Currently working with Machine Learning and Deep Learning  
 :black_medium_square: Sci-fi lover and music addict  
 
-### Connect with me:
+### Find me on:
 
 [<img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 [<img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
