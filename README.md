@@ -14,6 +14,6 @@ Mainly focus on Machine Learning and Deep Learning projects.
 
 ### Find me on <a href="https://www.linkedin.com/in/josegracaduarte/">LinkedIn</a> and <a href="mailto:joseduartead@gmail.com">gmail</a>:
 
-## Languages & Tools
-### *Pycharm* | Python | Anaconda | MySQL | LaTeX | Markdown | Linux
+### Languages & Tools
+#### *Pycharm* | *Python* | *Anaconda* | *MySQL* | *LaTeX* | *Markdown* | *R* | *Linux*
 
