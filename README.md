@@ -12,12 +12,10 @@ Mainly focus on Machine Learning and Deep Learning projects.
 :black_medium_square: Currently working with Machine Learning and Deep Learning  
 :black_medium_square: Sci-fi lover and music addict  
 
-### Find me on:
+### Find me on <a href="https://www.linkedin.com/in/josegracaduarte/">LinkedIn</a> and gmail:
 
-[<img align="left" alt="GitHub" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 [<img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]  
-
 <br/>
 
 ### Languages & Tools
@@ -38,9 +36,6 @@ Mainly focus on Machine Learning and Deep Learning projects.
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
 [<code>
@@ -54,5 +49,4 @@ Mainly focus on Machine Learning and Deep Learning projects.
 
 
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-gra%C3%A7a-duarte-400270134
-[github]: https://github.com/josegduarte
 [gmail]: mailto:joseduartead@gmail.com
