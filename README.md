@@ -4,7 +4,6 @@
 
 ## Biotechnologist & Bioinformatics MSc Student
 
-<img src="https://user-images.githubusercontent.com/66804728/105891062-17c93800-6008-11eb-9a6f-1a9e8be77dc3.png" alt="example">
 Biotechnologist with lab experience in DNA Sequencing, real-time PCR, ELISA.  
 Bioinformatics MSc Student in University of Minho.  
 Mainly focus on Machine Learning and Deep Learning projects.  
@@ -21,4 +20,27 @@ Mainly focus on Machine Learning and Deep Learning projects.
 
 ### Languages & Tools
 #### *Pycharm* | *Python* | *Anaconda* | *MySQL* | *LaTeX* | *Markdown* | *R* | *Linux*
+
+***
+
+```
+                     `. ___
+                    __,' __`.                _..----....____
+        __...--.'``;.   ,.   ;``--..__     .'    ,-._    _.-'
+  _..-''-------'   `'   `'   `'     O ``-''._   (,;') _,'
+,'________________                          \`-._`-','
+ `._              ```````````------...___   '-.._'-:
+    ```--.._      ,.                     ````--...__\-.
+            `.--. `-`                       ____    |  |`
+              `. `.                       ,'`````.  ;  ;`
+                `._`.        __________   `.      \'__/`
+                   `-:._____/______/___/____`.     \  `
+                               |       `._    `.    \
+                               `._________`-.   `.   `.___
+                                                  `------'`
+
+``` 
+
+
+
 
