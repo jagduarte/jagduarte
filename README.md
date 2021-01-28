@@ -15,7 +15,7 @@ Mainly focus on Machine Learning and Deep Learning projects.
 ***
 
 ### Find me on <a href="https://www.linkedin.com/in/josegracaduarte/">LinkedIn</a> and <a href="mailto:joseduartead@gmail.com">gmail</a>  
-
+[user@example.com](mailto:joseduartead@gmail.com)
 ***
 
 ### Languages & Tools
