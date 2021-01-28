@@ -1,4 +1,4 @@
-### "Learning never exhausts the mind" - Leonardo da Vinci
+### <span style="color: red;">"Learning never exhausts the mind" - Leonardo da Vinci</span>
 
 ***
 
