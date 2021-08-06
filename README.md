@@ -1,7 +1,3 @@
-
-
-***
-
 ## Biotechnologist & Bioinformatics MSc Student
 
 Biotechnologist with lab experience in DNA Sequencing, real-time PCR, ELISA.  
@@ -14,7 +10,7 @@ Mainly focus on Machine Learning and Deep Learning projects.
 
 ***
 
-### Find me on <a href="https://www.linkedin.com/in/josegracaduarte/">LinkedIn</a> and <a href="mailto:joseduartead@gmail.com">gmail</a>  
+### <a href="https://www.linkedin.com/in/josegracaduarte/">LinkedIn</a> | <a href="mailto:joseduartead@gmail.com">gmail</a>  
 
 ***
 
