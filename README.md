@@ -19,4 +19,4 @@ Mainly focus on Machine Learning and Deep Learning projects.
 ***
 
 ### Languages & Tools
-#### *Pycharm* | *Python* | *Anaconda* | *MySQL* | *LaTeX* | *Markdown* | *R* | *Linux*
+#### *Pycharm* | *Python* | *Anaconda* | *LaTeX* | *Markdown* | *R* | *Linux*
