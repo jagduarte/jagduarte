@@ -8,4 +8,4 @@ Currently working with Machine Learning and Deep Learning projects.
 
 ###### <a href="https://www.linkedin.com/in/josegracaduarte/">LinkedIn</a> | <a href="mailto:joseduartead@gmail.com">Gmail</a>
 - - - - -
-###### ***Learning never exhausts the mind" - Leonardo da Vinci***
+##### ***"Learning never exhausts the mind" - Leonardo da Vinci***
