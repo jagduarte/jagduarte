@@ -1,4 +1,4 @@
-### <span style="color: red;">"Learning never exhausts the mind" - Leonardo da Vinci</span>
+
 
 ***
 
@@ -20,3 +20,4 @@ Mainly focus on Machine Learning and Deep Learning projects.
 
 ### Languages & Tools
 #### *Pycharm* | *Python* | *Anaconda* | *LaTeX* | *Markdown* | *R* | *Linux*
+### <span style="color: red;">"Learning never exhausts the mind" - Leonardo da Vinci</span>
