@@ -1,4 +1,4 @@
-### Biotechnologist & Bioinformatics MSc Student
+### Biotechnologist & Bioinformatician
 
 Biotechnologist with lab experience in DNA Sequencing, real-time PCR, ELISA.  
 Bioinformatics MSc Student in University of Minho.  
